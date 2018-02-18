@@ -13,7 +13,7 @@ import java.util.List;
 /**
  * Tour Rating Repository Interface
  *
- * Created by Mary Ellen Bowman
+ *
  */
 @RepositoryRestResource(exported = false)
 public interface TourRatingRepository extends CrudRepository<TourRating, TourRatingPk> {

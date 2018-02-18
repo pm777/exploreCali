@@ -8,7 +8,7 @@ import org.springframework.stereotype.Service;
 /**
  * Tour Package Service
  *
- * Created by Mary Ellen Bowman
+ * 
  */
 @Service
 public class TourPackageService {

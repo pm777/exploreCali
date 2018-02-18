@@ -9,7 +9,7 @@ import org.springframework.data.rest.core.annotation.RestResource;
 /**
  * Tour Package Repository Interface
  *
- * Created by Mary Ellen Bowman
+ * 
  */
 @RepositoryRestResource(collectionResourceRel = "packages", path = "packages")
 public interface TourPackageRepository extends CrudRepository<TourPackage, String> {

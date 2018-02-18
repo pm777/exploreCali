@@ -15,7 +15,7 @@ import java.util.List;
 /**
  * Tour Repository Interface
  *
- * Created by Mary Ellen Bowman
+ * 
  */
 public interface TourRepository extends PagingAndSortingRepository<Tour,Integer> {
     /**
